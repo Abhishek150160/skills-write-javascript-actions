@@ -1,0 +1,9 @@
+name: "Dad Jokes Action"
+description: "Fetch a random dad joke and output it"
+author: "Abhishek150160"
+runs:
+  using: "node16"
+  main: "dist/index.js"
+outputs:
+  joke:
+    description: "The dad joke"
