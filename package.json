@@ -19,10 +19,9 @@
   },
   "homepage": "https://github.com/Abhishek150160/skills-write-javascript-actions#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0",
-    "@vercel/ncc": "^0.38.4",
-    "axios": "^1.13.5",
-    "node-fetch": "^3.3.2",
-    "uuid": "^13.0.0"
-  }
+  "request": "^2.88.2",
+  "request-promise": "^4.2.6",
+  "@actions/core": "^1.10.0",
+  "@vercel/ncc": "^0.34.0"
+}
 }
